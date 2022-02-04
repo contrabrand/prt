@@ -1,6 +1,6 @@
 {"Version":"1.0",
 
-"Url":"" ,
+"Url":"https://github.com/contrabrand/prt/raw/main/prt.zip" ,
 
 "Changelog":"  
 
