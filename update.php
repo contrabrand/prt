@@ -1,20 +1,20 @@
-{"Version":"1.0",
+{"Version":"1.1",
 
 "Url":"https://github.com/contrabrand/prt/raw/main/prt.zip" ,
 
 "Changelog":"  
 
           🙏 ยินดีต้อนรับเข้าสู่แอพ​ Pirate​ ​VPN🙏
-                   By NayuTech 
+                    By NayuTech 
 
                   เร็ว  นิ่ง​  ปลอดภัย
   
 
 ✅วันที่อัปเดท 
 
+05/02/2022 
 
-
-✅เพิ่ม​ไฟล์
+✅เพิ่ม​ไฟล์​ : HK,TH,SG,IN,JP,KR,NL,US
 
 
 
